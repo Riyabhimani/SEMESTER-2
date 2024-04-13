@@ -1,0 +1,25 @@
+*{
+	box-sizing: border-box;
+}
+#a{
+	float: left;
+}
+#b{
+	float: right;
+	color: blue;
+	margin: 20px;
+	font-style: italic;
+}
+#c{
+	float: left;
+	color: black;
+	width: 10%;
+	background-color: red;
+	margin-right: 10px;
+	font-style: italic;
+}
+#d{
+	float: left;
+	margin-left: 5px;
+	font-style: italic;
+}
